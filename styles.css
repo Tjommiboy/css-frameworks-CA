@@ -1,0 +1,19 @@
+.item-one {
+  background-color: rgba(137, 43, 226, 0);
+}
+.item-two {
+  background-color: rgba(0, 0, 255, 0);
+}
+.item-three {
+  background-color: rgba(127, 255, 212, 0);
+}
+.item-four {
+  background-color: rgba(8, 95, 66, 0);
+}
+
+.hero-bg {
+  background-image: url("/pictures/DSC_0260.JPG");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
