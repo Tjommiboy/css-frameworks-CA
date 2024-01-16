@@ -1,5 +1,5 @@
 {
-  "name": "css-frameworks-ca",
+  "name": "bootstrap-objectives",
   "version": "0.0.1",
   "description": "A starting point for the CSS Frameworks CA project",
   "scripts": {
@@ -25,5 +25,7 @@
   "homepage": "https://github.com/NoroffFEU/css-frameworks-ca#readme",
   "dependencies": {
     "bootstrap": "^5.3.2"
-  }
+  },
+  "main": "index.js",
+  "devDependencies": {}
 }
